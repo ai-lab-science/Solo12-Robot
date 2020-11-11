@@ -111,8 +111,10 @@ The original Pulleys and Belts were repalced with M3 Pulleys and the fitting Bel
 
 The pulleys were machined on a lathe to match the dimension fo the original one (except the teeth of course)
 
-* Machine Instructions for the new Motor-Pulley can be found [Here](Parts_for_machining\new_motor Pulley Zeichnung v2.pdf)
-* Machine Instructions for the new Center-Pulley can be found [Here](Parts_for_machining\New_Center_Pulley_10_teeth Zeichnung v0.pdf)
+* Machine Instructions for the new Motor-Pulley can be found [Here](/Parts_for_machining/new_motor Pulley Zeichnung v2.pdf)
+* Machine Instructions for the new Center-Pulley can be found [Here](/Parts_for_machining/New_Center_Pulley_10_teeth Zeichnung v0.pdf)
+
+[embed]Parts_for_machining\new_motor Pulley Zeichnung v2.pdf[/embed]
 
 
 ### 20x20 Hip AA Bearings
