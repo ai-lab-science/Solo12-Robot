@@ -3,7 +3,7 @@
 The Optical encoder, enocder wheel and mount were replaces woth a magentic encoder.
 For this, the AS5047 is mounted facing the end of the of shaft, to which a magnet is attached.
 The Covers were modified to accept the footprint of the PCB.
-<img src="\images\image_magnet_4mm.jpg"  height="200"><br>
+<br><img src="images\encoder_board_explosionszeichnung.jpg"  height="200"><br>
 
 
 ## Mechanical Changes
@@ -13,7 +13,7 @@ Three holes for mounting as well as spacers are also given.
 
 ### Magnet for the Encoder
 
-<img src="\images\image_magnet_4mm.jpg"  height="200"><br>
+<img src="images\image_magnet_4mm.jpg"  height="200"><br>
 * [Magnets Bought from here](https://www.magnetkontor.de)<br>
 ---
 
