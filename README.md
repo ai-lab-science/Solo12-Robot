@@ -90,14 +90,14 @@ Here's a blank template to get started:
 <!-- All changes Made to Original -->
 ## All changes Made to Original
 
-To get a local copy up and running follow these simple steps.
+Here you can find the Documentation of all changes that were made to the original Robot.
 
 ### Magnetic Encoder
 
-The Original Robot uses an optical Encoder. Due to its cost and the effort in assembly, this was replaced with a magbetic enoder by AMS called [AS5047](https://ams.com/AS5047P).
+The original Robot uses an optical Encoder. Due to its cost and the effort in assembly this was replaced with a magbetic enoder by AMS called [AS5047](https://ams.com/AS5047P).
 
-| Encoder Changes Mechanical | Encoder Changes Electrical |<br>
-|       ---------------      |        ---------------     |<br>
+| Encoder Changes Mechanical | Encoder Changes Electrical |
+|-------------|-------------|
 | <a href="Magnetic-Encoder/README.md#Mechanical-changes"><img src="Magnetic-Encoder/images/new_encoder_cad.png" width="200"></a>  | <a href="Magnetic-Encoder/README.md#Electrical-changes"><img src="Magnetic-Encoder/images/enocder_electronics.png" width="200"></a> |
 
 
@@ -115,6 +115,15 @@ The pulleys were machined on a lathe to match the dimension fo the original one 
 * Machine Instructions for the new Center-Pulley can be found [Here](/Parts_for_machining/New_Center_Pulley_10_teeth_Zeichnung_v0.pdf)
 
 
+The .STL files of the Pulleys were also updated:
+
+<img src="Solo12-Robot\Parts_for_3D_printing\New-Pulleys\center_pulley_3DPrint_image.png" width="200"><br>
+* [New Center Pulley](Solo12-Robot\Parts_for_3D_printing\New-Pulleys\pulley_center_30t.stl)
+
+<img src="Solo12-Robot\Parts_for_3D_printing\New-Pulleys\output_pulley_image.png" width="200"><br>
+* [New Center Pulley](Solo12-Robot\Parts_for_3D_printing\New-Pulleys\pulley_output_30t.stl)
+
+
 
 ### 20x20 Hip AA Bearings
  The "Hip AA Bearing" of size 25 x 20 x 4mm were replaced with bearings of 27 x 20 x 4mm because of availability. The .STL files were updated accordingly. The bearings can be found [here](https://www.123kugellager.de/lager-R2520-2Z-ZEN)
@@ -130,7 +139,7 @@ Here is a Table for all parts from the Main Body:
 | Fasteners | All fasteners as described by the original  | [online-schrauben.de](https://online-schrauben.de/shop/) |
 
 
-Here is a Table for all parts from the 3 DoF Leg:
+Here is a Table for all parts for one 3 DoF Leg:
 
 | Part        | Description | Suppliers   |
 |-------------|-------------|------------|
@@ -148,6 +157,8 @@ Here is a Table for all parts from the 3 DoF Leg:
   * [Motor Pulley](Solo12-Robot\Parts_for_machining\new_motor_Pulley_Zeichnung_v2.pdf)
   * [Center Pulley](Solo12-Robot\Parts_for_machining\New_Center_Pulley_10_teeth_Zeichnung_v0.pdf)
   * [Motor shaft](Solo12-Robot\Parts_for_machining\motor_antigravity_4004_custom_shaft_Zeichnung_v1.pdf)
+
+  * 
 
 
 ## License
