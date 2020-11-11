@@ -58,8 +58,8 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
+  * [Useful Links](#Useful-Links)
+* [Changes Made to Original](#All-changes-Made-to-Original)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
@@ -89,7 +89,7 @@ Here's a blank template to get started:
 
 
 
-<!-- GETTING STARTED -->
+<!-- All changes Made to Original -->
 ### All changes Made to Original
 
 To get a local copy up and running follow these simple steps.
