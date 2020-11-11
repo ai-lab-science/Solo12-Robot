@@ -127,6 +127,15 @@ Here is a Table for all parts from the Main Body:
 | Part        | Description | Suppliers   |
 |-------------|-------------|------------|
 | Hip AA Bearing | Bearing to attach Hip FE to the body | [123kugellager.de](https://store-en.tmotor.com/goods.php?id=438)|
+| Fasteners | All fasteners as described by the original  | [online-schrauben.de](https://online-schrauben.de/shop/) |
+
+
+Here is a Table for all parts from the 3 DoF Leg:
+
+| Part        | Description | Suppliers   |Price |
+|-------------|-------------|------------|
+| T-Motor Antigravity 4004 300kV | Motor for the actuator | [T-Motor Store](https://www.123kugellager.de/lager-R2520-2Z-ZEN)|
+| Fasteners | All fasteners as described by the original  | [online-schrauben.de](https://online-schrauben.de/shop/) |
 | Timing Belt 4mm / length: 150mm / 50 teeth | new M3 Timing Belts  | [www.zahnriemen24.de](https://www.zahnriemen24.de/a/40007-zahnriemen-3m) |
 | Timing Belt 6mm / length: 201mm / 67 teeth | new M3 Timing Belts  | [www.zahnriemen24.de](https://www.zahnriemen24.de/a/40007-zahnriemen-3m) |
 |Bearing Output Shaft 32mm x 25mm x 4mm      | bearing for each output | [ekugellager.de](https://www.ekugellager.de)|
@@ -136,13 +145,10 @@ Here is a Table for all parts from the Main Body:
 |Motor Shaft| shaft to replace the motor shaft | [reidl.de](https://www.reidl.de/iso-8740-zylinderkerbstifte-mit-fase?q=stahlzylinder)
 |Motor and Center Pulley| new M3 Pulleys| [zehnriemen24.de](https://www.zahnriemen24.de/a/40139-zahnscheiben-3m?vorbohrungspannsatz=1&bohrung=1&zaehnezahl=10&quantity=1)|
 
-
-Here is a Table for all parts from the 3 DoF Leg:
-
-| Part        | Description | Suppliers   |Price |
-|-------------|-------------|------------|
-| T-Motor Antigravity 4004 300kV | Motor for the actuator | [T-Motor Store](https://www.123kugellager.de/lager-R2520-2Z-ZEN)|
-| Fasteners | All fasteners as described by the original  | [online-schrauben.de](https://online-schrauben.de/shop/) |
+* the motor pulley, center pulley and Motor shaft were machined additionally according to:
+  * [Motor Pulley](Solo12-Robot\Parts_for_machining\new_motor_Pulley_Zeichnung_v2.pdf)
+  * [Center Pulley](Solo12-Robot\Parts_for_machining\New_Center_Pulley_10_teeth_Zeichnung_v0.pdf)
+  * [Motor shaft](Solo12-Robot\Parts_for_machining\motor_antigravity_4004_custom_shaft_Zeichnung_v1.pdf)
 
 
 ## License
