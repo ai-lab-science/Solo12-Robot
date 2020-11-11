@@ -92,21 +92,6 @@ Here's a blank template to get started:
 
 To get a local copy up and running follow these simple steps.
 
-<!--
-### Installation
-
-1. Clone the repo
-```sh
-git clone https://github.com/ PRGeeesus/Solo12-Robot.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
-
--->
-
-<!-- Magnetic Encoder -->
 ### Magnetic Encoder
 
 The Original Robot uses an optical Encoder. Due to its cost and the effort in assembly, this was replaced with a magbetic enoder by AMS called [AS5047](https://ams.com/AS5047P).
@@ -119,6 +104,15 @@ The Original Robot uses an optical Encoder. Due to its cost and the effort in as
 
 <!-- M3 Belts and Pulleys -->
 ### M3 Belts and Pulleys
+The original Pulleys and Belts were repalced with M3 Pulleys and the fitting Belts.
+
+* The new Belts can be found [Here](https://www.zahnriemen24.de/a/40007-zahnriemen-3m)
+* The new Pulleys can be found [Here](https://www.zahnriemen24.de/a/40139-zahnscheiben-3m?vorbohrungspannsatz=1&bohrung=1&zaehnezahl=10&quantity=1)
+
+The pulleys were machined on a lathe to match the dimension fo the original one (except the teeth of course)
+
+* Machine Instructions for the new Motor-Pulley can be found [Here](Parts_for_machining\new_motor Pulley Zeichnung v2.pdf)
+* Machine Instructions for the new Center-Pulley can be found [Here](Parts_for_machining\New_Center_Pulley_10_teeth Zeichnung v0.pdf)
 
 
 ### 20x20 Hip AA Bearings
