@@ -23,15 +23,16 @@ Three holes for mounting as well as spacers are also given.
 
 
 ## Electrical changes
+
 As the micro Drivers Require ABI input for the tourque control, the encoders can output ABI, as well as SPI in order tp have the position input ready for the MNater Board.
----
+
 ### Gerber Files
 <img src="images\enocder_electronics.png" height="200"> | 
 <img src="images\photo_encoder_board.jpg" height="200"> | 
 * The gerber files for the encoder Bord can be found Here:
----
+
 [Magnetic enoder Board](/Electrical-Changes)<br>
----
+
 ### Bill of Material
 
 
