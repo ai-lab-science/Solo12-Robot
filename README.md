@@ -84,8 +84,9 @@ Here's a blank template to get started:
 ### Useful Links
 
 * [Original Project by the Open Dynamic Robot Initiative](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware)
-* []()
-* []()
+
+* [Nice Drawing to better Visualize the Robot](/graphics.md)
+
 
 <!-- All changes Made to Original -->
 ## All changes Made to Original
@@ -138,7 +139,6 @@ Here is a Table for all parts from the Main Body:
 | Hip AA Bearing | Bearing to attach Hip FE to the body | [123kugellager.de](https://store-en.tmotor.com/goods.php?id=438)|
 | Fasteners | All fasteners as described by the original  | [online-schrauben.de](https://online-schrauben.de/shop/) |
 
-
 Here is a Table for all parts for one 3 DoF Leg:
 
 | Part        | Description | Suppliers   |
@@ -151,14 +151,17 @@ Here is a Table for all parts for one 3 DoF Leg:
 |Bearing Motor Shaft and Center Shaft |8mm x 4mm x 2mm bearing | - |[ekugellager.de](https://www.ekugellager.de)|
 |Bearing Timing Belt Tensioner| - | [ekugellager.de](https://www.ekugellager.de)|
 |Motor Shaft| new shaft | [reidl.de](https://www.reidl.de/iso-8740-zylinderkerbstifte-mit-fase?q=stahlzylinder)
-|Motor and Center Pulley| new M3 Pulleys| [zehnriemen24.de](https://www.zahnriemen24.de/a/40139-zahnscheiben-3m?vorbohrungspannsatz=1&bohrung=1&zaehnezahl=10&quantity=1)|
+|Motor and Center Pulley| new M3 Pulleys| [www.zahnriemen24.de](https://www.zahnriemen24.de/a/40139-zahnscheiben-3m?vorbohrungspannsatz=1&bohrung=1&zaehnezahl=10&quantity=1)|
 
-* the motor pulley, center pulley and Motor shaft were machined additionally according to:
+
+
+### Motor and Center Pulley
+the motor pulley, center pulley and Motor shaft were machined according to:
   * [Motor Pulley](Solo12-Robot\Parts_for_machining\new_motor_Pulley_Zeichnung_v2.pdf)
   * [Center Pulley](Solo12-Robot\Parts_for_machining\New_Center_Pulley_10_teeth_Zeichnung_v0.pdf)
   * [Motor shaft](Solo12-Robot\Parts_for_machining\motor_antigravity_4004_custom_shaft_Zeichnung_v1.pdf)
 
-  * 
+TODO: Add images of amchining Process
 
 
 ## License
