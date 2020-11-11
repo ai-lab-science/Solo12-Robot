@@ -22,6 +22,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -29,16 +30,13 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+-->
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ PRGeeesus/Solo12-Robot">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">YOUR_TITLE</h3>
+  
+  <h3 align="center">Solo12-Robot</h3>
 
   <p align="center">
     This repo summarizes my changes to the Open Dynamics Robot Initiative Project.
@@ -83,7 +81,7 @@ Here's a blank template to get started:
 ` PRGeeesus`, `Solo12-Robot`, `twitter_handle`, `email`
 
 
-### Built With
+### Useful Links
 
 * []()
 * []()
@@ -92,18 +90,11 @@ Here's a blank template to get started:
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+### All changes Made to Original
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
-
+<!--
 ### Installation
 
 1. Clone the repo
@@ -115,36 +106,24 @@ git clone https://github.com/ PRGeeesus/Solo12-Robot.git
 npm install
 ```
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+-->
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- Magnetic Encoder -->
+### Magnetic Encoder
 
-See the [open issues](https://github.com/ PRGeeesus/Solo12-Robot/issues) for a list of proposed features (and known issues).
+INFO ABOUT MAGENTIC ENCODER
 
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+<!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
 
+
+<!-- M3 Belts and Pulleys -->
+### M3 Belts and Pulleys
+
+
+### 20x20 Hip AA Bearings
 
 <!-- LICENSE -->
 ## License
