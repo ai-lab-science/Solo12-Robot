@@ -21,12 +21,13 @@ Three holes for mounting as well as spacers are also given.
 * [Upper Leg Module New Shell Cover - STL file](../Parts_for_3D_printing/New-Shell-Covers/cover_upper_leg.STL)<br>
 
 
+
 ## Electrical changes
 As the micro Drivers Require ABI input for the tourque control, the encoders can output ABI, as well as SPI in order tp have the position input ready for the MNater Board.
 ---
 ### Gerber Files
 <img src="images\enocder_electronics.png" height="200"> | 
-<img src="Electrical-Changes\PCB_PCB_2020-10-29_13-03-39_2020-11-11_17-29-40.pdf" height="200"> | 
+<img src="images\photo_encoder_board.jpg" height="200"> | 
 * The gerber files for the encoder Bord can be found Here:
 ---
 [Magnetic enoder Board](/Electrical-Changes)<br>
