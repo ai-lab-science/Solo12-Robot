@@ -112,8 +112,8 @@ npm install
 The Original Robot uses an optical Encoder. Due to its cost and the effort in assembly, this was replaced with a magbetic enoder by AMS called [AS5047](https://ams.com/AS5047P).
 
 | Encoder Changes Mechanical | Encoder Changes Electrical |<br>
-| ---------------  | | ---------------  |
-| <a href="Magnetic-Encoder/README.md#Electrical changes"><img src="Magnetic-Encoder/images/new_encoder_cad.png" width="300"></a>  | <a href="Magnetic-Encoder/README.md#Mechanical changes"><img src="Magnetic-Encoder/images/enocder_electronics.png" width="300"></a> |
+| ---------------  | | ---------------  |<br>
+| <a href="Magnetic-Encoder/README.md#Electrical-changes"><img src="Magnetic-Encoder/images/new_encoder_cad.png" width="300"></a>  | <a href="Magnetic-Encoder/README.md#Mechanical-changes"><img src="Magnetic-Encoder/images/enocder_electronics.png" width="300"></a> |
 
 
 
