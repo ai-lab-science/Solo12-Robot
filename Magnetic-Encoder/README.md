@@ -7,6 +7,12 @@ blablabl coming soon
 All the covers of the leg modules were equipped with a recess of 3mm debth to hold the encoder board. The Motor-shaft was shortened by 3mm aswell. At the end of the shaft now sits a magnet that gives the rotational inofrmation to the AS5074.
 Three holes for mounting as well as spacers are also given.
 
+### Magnet for the Encoder
+
+<img src="\images\image_magnet_4mm.jpg"  height="200"><br>
+* [Magnet buy Site](https://www.magnetkontor.de)<br>
+---
+
 ### New Shell Covers
 * The STL files for 3d printing the new shells of the 3dof leg can be found here: [STL files 3dof leg](stl_files).
 ---
@@ -22,9 +28,10 @@ Three holes for mounting as well as spacers are also given.
 
 
 
+
 ## Electrical changes
 
-As the micro Drivers Require ABI input for the tourque control, the encoders can output ABI, as well as SPI in order tp have the position input ready for the MNater Board.
+As the micro Drivers Require ABI input for the tourque control, the encoders can output ABI, as well as SPI in order tp have the position input ready for the [Master-Board](https://github.com/open-dynamic-robot-initiative/master-board#master-board).
 
 ### Gerber Files
 <img src="images\enocder_electronics.png" height="200"> | 
