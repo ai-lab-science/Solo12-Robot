@@ -113,8 +113,7 @@ The Original Robot uses an optical Encoder. Due to its cost and the effort in as
 
 | Encoder Changes Mechanical | Encoder Changes Electrical |
 | ---------------  | | ---------------  |
-| <a href="Solo12-Robot/quadruped_robot_8dof_v2/README.md#quadruped-robot-8dof-v2"><img src="Solo12-Robot/Magnetic Encoder/images/new_encoder_cad.png" width="300"></a>  | <a href="mechanics/quadruped_robot_8dof_v2/README.md#quadruped-robot-8dof-v2"><img src="Solo12-Robot/Magnetic Encoder/images/enocder_electronics.png" width="300"></a>  |
-<!--_For more examples, please refer to the [Documentation](https://example.com)_-->
+| <a href="Solo12-Robot/Magnetic Encoder/README.md#Electrical changes"><img src="Solo12-Robot/Magnetic Encoder/images/new_encoder_cad.png" width="300"></a>  | <a href="Solo12-Robot/Magnetic Encoder/README.md#Mechanical changes"><img src="Solo12-Robot/Magnetic Encoder/images/enocder_electronics.png" width="300"></a> |
 
 
 
