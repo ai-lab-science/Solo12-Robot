@@ -83,14 +83,12 @@ Here's a blank template to get started:
 
 ### Useful Links
 
+* [Original Project by the Open Dynamic Robot Initiative](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware)
 * []()
 * []()
-* []()
-
-
 
 <!-- All changes Made to Original -->
-### All changes Made to Original
+## All changes Made to Original
 
 To get a local copy up and running follow these simple steps.
 
@@ -108,13 +106,14 @@ npm install
 
 -->
 
-
-
 <!-- Magnetic Encoder -->
 ### Magnetic Encoder
 
-INFO ABOUT MAGENTIC ENCODER
+The Original Robot uses an optical Encoder. Due to its cost and the effort in assembly, this was replaced with a magbetic enoder by AMS called [AS5047](https://ams.com/AS5047P).
 
+| Encoder Changes Mechanical | Encoder Changes Electrical |
+| ---------------  | | ---------------  |
+| <a href="Solo12-Robot/quadruped_robot_8dof_v2/README.md#quadruped-robot-8dof-v2"><img src="Solo12-Robot/Magnetic Encoder/images/new_encoder_cad.png" width="300"></a>  | <a href="mechanics/quadruped_robot_8dof_v2/README.md#quadruped-robot-8dof-v2"><img src="Solo12-Robot/Magnetic Encoder/images/enocder_electronics.png" width="300"></a>  |
 <!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
 
