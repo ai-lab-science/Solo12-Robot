@@ -132,17 +132,16 @@ Here is a Table for all parts from the Main Body:
 
 Here is a Table for all parts from the 3 DoF Leg:
 
-| Part        | Description | Suppliers   |Price |
+| Part        | Description | Suppliers   |
 |-------------|-------------|------------|
 | T-Motor Antigravity 4004 300kV | Motor for the actuator | [T-Motor Store](https://www.123kugellager.de/lager-R2520-2Z-ZEN)|
 | Fasteners | All fasteners as described by the original  | [online-schrauben.de](https://online-schrauben.de/shop/) |
 | Timing Belt 4mm / length: 150mm / 50 teeth | new M3 Timing Belts  | [www.zahnriemen24.de](https://www.zahnriemen24.de/a/40007-zahnriemen-3m) |
 | Timing Belt 6mm / length: 201mm / 67 teeth | new M3 Timing Belts  | [www.zahnriemen24.de](https://www.zahnriemen24.de/a/40007-zahnriemen-3m) |
-|Bearing Output Shaft 32mm x 25mm x 4mm      | bearing for each output | [ekugellager.de](https://www.ekugellager.de)|
-|Bearing Motor Shaft and Center Shaft 
-|8mm x 4mm x 2mm bearing for motor and center| - |[ekugellager.de](https://www.ekugellager.de)|
+|Bearing Output Shaft 32mm x 25mm x 4mm | bearing for each output | [ekugellager.de](https://www.ekugellager.de)|
+|Bearing Motor Shaft and Center Shaft |8mm x 4mm x 2mm bearing | - |[ekugellager.de](https://www.ekugellager.de)|
 |Bearing Timing Belt Tensioner| - | [ekugellager.de](https://www.ekugellager.de)|
-|Motor Shaft| shaft to replace the motor shaft | [reidl.de](https://www.reidl.de/iso-8740-zylinderkerbstifte-mit-fase?q=stahlzylinder)
+|Motor Shaft| new shaft | [reidl.de](https://www.reidl.de/iso-8740-zylinderkerbstifte-mit-fase?q=stahlzylinder)
 |Motor and Center Pulley| new M3 Pulleys| [zehnriemen24.de](https://www.zahnriemen24.de/a/40139-zahnscheiben-3m?vorbohrungspannsatz=1&bohrung=1&zaehnezahl=10&quantity=1)|
 
 * the motor pulley, center pulley and Motor shaft were machined additionally according to:
