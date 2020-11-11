@@ -10,14 +10,14 @@ Three holes for mounting as well as spacers are also given.
 * The STL files for 3d printing the new shells of the 3dof leg can be found here: [STL files 3dof leg](stl_files).
 ---
 
-<img src="../Parts_for_3D_printing/New Shell Covers/images/new_hip_aa.png"  height="400"><br>
-* [Hip AA Module New Shell Cover - STL file](../Parts_for_3D_printing/New Shell Covers/cover_hip_aa.STL)<br>
+<img src="../Parts_for_3D_printing/New Shell Covers/images/new_hip_aa.png"  height="300"><br>
+* [Hip AA Module New Shell Cover - STL file](../Parts_for_3D_printing/New-Shell-Covers/cover_hip_aa.STL)<br>
 ---
-<img src="../Parts_for_3D_printing/New Shell Covers/images/new_hip_fe.png" height="400"><br>
-* [Hip FE Module New Shell Cover - STL file](../Parts_for_3D_printing/New Shell Covers/cover_hip_fe.STL)<br>
+<img src="../Parts_for_3D_printing/New Shell Covers/images/new_hip_fe.png" height="300"><br>
+* [Hip FE Module New Shell Cover - STL file](../Parts_for_3D_printing/New-Shell-Covers/cover_hip_fe.STL)<br>
 ---
-<img src="../Parts_for_3D_printing/New Shell Covers/images/new_upper_leg.png" height="400"><br>
-* [Upper Leg Module New Shell Cover - STL file](../Parts_for_3D_printing/New Shell Covers/cover_upper_leg.STL)<br>
+<img src="../Parts_for_3D_printing/New Shell Covers/images/new_upper_leg.png" height="300"><br>
+* [Upper Leg Module New Shell Cover - STL file](../Parts_for_3D_printing/New-Shell-Covers/cover_upper_leg.STL)<br>
 
 ### Electrical changes
 
