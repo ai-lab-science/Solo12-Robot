@@ -113,7 +113,7 @@ The Original Robot uses an optical Encoder. Due to its cost and the effort in as
 
 | Encoder Changes Mechanical | Encoder Changes Electrical |
 | ---------------  | | ---------------  |
-| <a href="Solo12-Robot/Magnetic Encoder/README.md#Electrical changes"><img src="Solo12-Robot/Magnetic Encoder/images/new_encoder_cad.png" width="300"></a>  | <a href="Solo12-Robot/Magnetic Encoder/README.md#Mechanical changes"><img src="Solo12-Robot/Magnetic Encoder/images/enocder_electronics.png" width="300"></a> |
+| <a href="Solo12-Robot/Magnetic Encoder/README.md#Electrical changes"><img src="Magnetic Encoder/images/new_encoder_cad.png" width="300"></a>  | <a href="Solo12-Robot/Magnetic Encoder/README.md#Mechanical changes"><img src="Magnetic Encoder/images/enocder_electronics.png" width="300"></a> |
 
 
 
