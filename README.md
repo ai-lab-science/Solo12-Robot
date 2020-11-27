@@ -129,6 +129,11 @@ The .STL files of the Pulleys were also updated:
  The "Hip AA Bearing" of size 25 x 20 x 4mm were replaced with bearings of 27 x 20 x 4mm because of availability. The .STL files were updated accordingly. The bearings can be found [here](https://www.123kugellager.de/lager-R2520-2Z-ZEN)
 <!-- LICENSE -->
 
+### Foot Contact Switch
+
+The Foot contact switch was exchanged for a Hall-effect Sensor. The sensor has the same Supply voltage and Senses a magnet at the bottom of the foot. CHeck [here](Solo12-Robot\Foot Contact Switch) for more Details
+
+
 ## Supplier Links
 All other parts were bought as described. I divided the Project into 3 parts.
 Here is a Table for all parts from the Main Body:
