@@ -85,7 +85,6 @@ Here's a blank template to get started:
 
 * [Original Project by the Open Dynamic Robot Initiative](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware)
 
-* [Nice Drawing to better Visualize the Robot](GRAPHICS.md)
 
 
 <!-- All changes Made to Original -->
