@@ -134,10 +134,11 @@ The Foot contact switch was exchanged for a Hall-effect Sensor. The sensor has t
 
 ---
 ### Motor and Center Pulley
-the motor pulley, center pulley and Motor shaft were machined according to:
+The Motor Pulley, Center Pulley and Motor Shaft were machined according to:
 | |Motor Pulley|Center Pulley|Motor Shaft|
 |---|---|---|---|
-|Images:|<img src="Solo12-Robot\Parts_for_machining\images\Motor_pulley_img.png" width="200">|<img src="Solo12-Robot\Parts_for_machining\images\Center_pulley_img.png" width="200">|<img src="Solo12-Robot\Parts_for_machining\images\Motor_shaft_img.png" width="200">|
+|Images:|<img src="Parts_for_machining\images\Motor_pulley.jpg" width="200">|<img src="Parts_for_machining\images\Center_pulley.jpg" width="200">|<img src="Parts_for_machining\images\Motor_shaft.jpg" width="200">|
+|Assembly|<img src="Parts_for_machining\images\Motor_assembly.jpg" width="200" height="90">|<img src="Parts_for_machining\images\center_pulley_assembly.jpeg" width="200">||
 |PDF:|<a href="\Parts_for_machining\new_motor_Pulley_Zeichnung_v2.pdf" target="_blank">Motor Pulley</a>|<a href="\Parts_for_machining\New_Center_Pulley_10_teeth_Zeichnung_v0.pdf" target="_blank">Center Pulley</a>|<a href="\Parts_for_machining\motor_antigravity_4004_custom_shaft_Zeichnung_v1.pdf" target="_blank">Motor shaft</a>
 
 
