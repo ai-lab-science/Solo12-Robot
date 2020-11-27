@@ -11,27 +11,26 @@ The Covers were modified to accept the footprint of the PCB.
 All the covers of the leg modules were equipped with a recess of 3mm debth to hold the encoder board. The Motor-shaft was shortened by 3mm aswell. At the end of the shaft now sits a magnet that gives the rotational inofrmation to the AS5074.
 Three holes for mounting as well as spacers are also given.
 
+---
 ### Magnet for the Encoder
---
-
 <img src="images\image_magnet_4mm.jpg"  height="200"><br>
 * [Magnets Bought from here](https://www.magnetkontor.de)<br>
----
 
-### New Shell Covers
+
 ---
+### New Shell Covers
+
 * The STL files for 3d printing the new shells of the 3dof leg can be found here: [STL files 3dof leg](stl_files).
 
+|Hip AA| Hip FE| Upper LEG|
+|-------------|-------------|-------------|
+|<img src="../Parts_for_3D_printing/New-Shell-Covers/images/new_hip_aa.png"  height="200">|<img src="../Parts_for_3D_printing/New-Shell-Covers/images/new_hip_fe.png" height="200">|<img src="../Parts_for_3D_printing/New-Shell-Covers/images/new_upper_leg.png" height="200">
+|[Hip AA Module New Shell Cover - STL file](../Parts_for_3D_printing/New-Shell-Covers/cover_hip_aa.STL)|[Hip FE Module New Shell Cover - STL file](../Parts_for_3D_printing/New-Shell-Covers/cover_hip_fe.STL)|[Upper Leg Module New Shell Cover - STL file](../Parts_for_3D_printing/New-Shell-Covers/cover_upper_leg.STL)
 
-<img src="../Parts_for_3D_printing/New-Shell-Covers/images/new_hip_aa.png"  height="200"><br>
-* [Hip AA Module New Shell Cover - STL file](../Parts_for_3D_printing/New-Shell-Covers/cover_hip_aa.STL)<br>
 ---
-<img src="../Parts_for_3D_printing/New-Shell-Covers/images/new_hip_fe.png" height="200"><br>
-* [Hip FE Module New Shell Cover - STL file](../Parts_for_3D_printing/New-Shell-Covers/cover_hip_fe.STL)<br>
----
-<img src="../Parts_for_3D_printing/New-Shell-Covers/images/new_upper_leg.png" height="200"><br>
-* [Upper Leg Module New Shell Cover - STL file](../Parts_for_3D_printing/New-Shell-Covers/cover_upper_leg.STL)<br>
+### Hip AA Bearing
 
+The Hip AA bearing was changed for a bearing of size 20x27 due to availability. The Frame part was changed accordingly.
 
 
 
@@ -41,12 +40,13 @@ As the micro Drivers Require ABI input for the tourque control, the encoders can
 
 ### Gerber Files
 ---
-<img src="images\enocder_electronics.png" height="200"> | 
-<img src="images\photo_encoder_board.jpg" height="200"> | 
-* The gerber files for the encoder Bord can be found Here:
+|PCB Schematic|Photograph|
+|-------------|-------------|
+| <img src="images\enocder_electronics.png" height="200"> | <img src="images\photo_encoder_board.jpg" height="200">|
 
-[Magnetic enoder Board](/Electrical-Changes)<br>
+* The gerber files for the encoder Bord can be found [Here](/Electrical-Changes)
 
+---
 ### Bill of Material
 
 
@@ -61,4 +61,6 @@ As the micro Drivers Require ABI input for the tourque control, the encoders can
 
 ## Communication Via Arduino
 
-I used the following repository to communicate with the AS5047 chip via SPI through an Arduino. The solder bridge labelled "Test" has to be closed for this. (Link)[https://github.com/adrien-legrand/AS5X47]
+I used the following [repository](https://github.com/adrien-legrand/AS5X47) to communicate with the AS5047 chip via SPI through an Arduino. The solder bridge labelled "Test" has to be closed for this. [Link](https://github.com/adrien-legrand/AS5X47)
+
+
