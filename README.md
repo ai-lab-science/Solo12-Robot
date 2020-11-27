@@ -131,7 +131,7 @@ The .STL files of the Pulleys were also updated:
 
 ### Foot Contact Switch
 
-The Foot contact switch was exchanged for a Hall-effect Sensor. The sensor has the same Supply voltage and Senses a magnet at the bottom of the foot. CHeck [here](Solo12-Robot\Foot Contact Switch) for more Details
+The Foot contact switch was exchanged for a Hall-effect Sensor. The sensor has the same Supply voltage and Senses a magnet at the bottom of the foot. CHeck [here](Foot-Contact-Switch) for more Details
 
 
 ## Supplier Links
