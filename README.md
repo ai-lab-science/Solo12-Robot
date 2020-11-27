@@ -53,7 +53,6 @@
 </p>
 
 
----
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -70,7 +69,7 @@
 * [Acknowledgements](#acknowledgements)
 
 
----
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -86,7 +85,7 @@ Here's a blank template to get started:
 * [Original Project by the Open Dynamic Robot Initiative](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware)
 
 
----
+
 <!-- All changes Made to Original -->
 ## All changes Made to Original
 
@@ -97,9 +96,9 @@ Here you can find the Documentation of all changes that were made to the origina
 
 The original Robot uses an optical Encoder. Due to its cost and the effort in assembly this was replaced with a magbetic enoder by AMS called [AS5047](https://ams.com/AS5047P).
 
-| Encoder Changes Mechanical | Encoder Changes Electrical |
+| Encoder Changes Mechanical | Encoder Changes Electrical | Config. and Arduino|
 |-------------|-------------|
-| <a href="Magnetic-Encoder/README.md#Mechanical-changes"><img src="Magnetic-Encoder/images/new_encoder_cad.png" width="200"></a>  | <a href="Magnetic-Encoder/README.md#Electrical-changes"><img src="Magnetic-Encoder/images/enocder_electronics.png" width="200"></a> |
+| <a href="Magnetic-Encoder/README.md#Mechanical-changes"><img src="Magnetic-Encoder/images/new_encoder_cad.png" width="200"></a>  | <a href="Magnetic-Encoder/README.md#Electrical-changes"><img src="Magnetic-Encoder/images/enocder_electronics.png" width="200"></a> | <a href="Magnetic-Encoder/README.md#Communication-Via-Arduino"><img src="Magnetic-Encoder/images/config_icon.png" width="200"></a>
 
 
 
@@ -143,8 +142,8 @@ the motor pulley, center pulley and Motor shaft were machined according to:
   * [Motor shaft](Solo12-Robot\Parts_for_machining\motor_antigravity_4004_custom_shaft_Zeichnung_v1.pdf)
 
 TODO: Add images of amchining Process
----
----
+
+
 ## Supplier Links
 All other parts were bought as described. I divided the Project into 3 parts.
 Here is a Table for all parts from the Main Body:
@@ -179,9 +178,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+martin.buchschuster@student.uni-luebeck.de
 
-Project Link: [https://github.com/ PRGeeesus/Solo12-Robot](https://github.com/ PRGeeesus/Solo12-Robot)
+Project Link: [This site](https://github.com/ PRGeeesus/Solo12-Robot)
 
 
 
