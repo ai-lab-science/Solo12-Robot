@@ -117,12 +117,10 @@ The pulleys were machined on a lathe to match the dimension fo the original one 
 
 
 The .STL files of the Pulleys were also updated:
-
-<img src="Parts_for_3D_printing\New-Pulleys\center_pulley_3DPrint_image.png" width="200"><br>
-* [New Center Pulley](Parts_for_3D_printing/New-Pulleys/pulley_center_30t.stl)
-
-<img src="Parts_for_3D_printing\New-Pulleys\output_pulley_image.png" width="200"><br>
-* [New Center Pulley](Parts_for_3D_printing/New-Pulleys/pulley_output_30t.stl)
+|center pulley|Output Pulley|
+|---|---|
+|<img src="Parts_for_3D_printing\New-Pulleys\center_pulley_3DPrint_image.png" width="200">|<img src="Parts_for_3D_printing\New-Pulleys\output_pulley_image.png" width="200">|
+|[New Center Pulley](Parts_for_3D_printing/New-Pulleys/pulley_center_30t.stl)|[New Center Pulley](Parts_for_3D_printing/New-Pulleys/pulley_output_30t.stl)|
 
 
 ---
