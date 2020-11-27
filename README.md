@@ -96,9 +96,9 @@ Here you can find the Documentation of all changes that were made to the origina
 
 The original Robot uses an optical Encoder. Due to its cost and the effort in assembly this was replaced with a magbetic enoder by AMS called [AS5047](https://ams.com/AS5047P).
 
-| Encoder Changes Mechanical | Encoder Changes Electrical | Config. and Arduino|
-|-------------|-------------|
-| <a href="Magnetic-Encoder/README.md#Mechanical-changes"><img src="Magnetic-Encoder/images/new_encoder_cad.png" width="200"></a>  | <a href="Magnetic-Encoder/README.md#Electrical-changes"><img src="Magnetic-Encoder/images/enocder_electronics.png" width="200"></a> | <a href="Magnetic-Encoder/README.md#Communication-Via-Arduino"><img src="Magnetic-Encoder/images/config_icon.png" width="200"></a>
+| Encoder Changes Mechanical | Encoder Changes Electrical | Config. and Arduino |
+|-------------|-------------|-------------|
+|<a href="Magnetic-Encoder/README.md#Mechanical-changes"><img src="Magnetic-Encoder/images/new_encoder_cad.png" width="200"></a> | <a href="Magnetic-Encoder/README.md#Electrical-changes"><img src="Magnetic-Encoder/images/enocder_electronics.png" width="200"></a> | <a href="Magnetic-Encoder/README.md#Communication-Via-Arduino"><img src="Magnetic-Encoder/images/config_icon.png" width="200"></a>|
 
 
 

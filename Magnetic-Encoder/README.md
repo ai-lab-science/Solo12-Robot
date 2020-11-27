@@ -61,4 +61,4 @@ As the micro Drivers Require ABI input for the tourque control, the encoders can
 
 ## Communication Via Arduino
 
-Links to arduino TODO
+I used the following repository to communicate with the AS5047 chip via SPI through an Arduino. The solder bridge labelled "Test" has to be closed for this. (Link)[https://github.com/adrien-legrand/AS5X47]
