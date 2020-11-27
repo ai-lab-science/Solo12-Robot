@@ -11,8 +11,8 @@ All about the foot - contact switch using hall effect sensors.
 ### The Chip Board
 A small PCB Was designed to hold the chip. It has two mounting holes.
 
-<img src="Solo12-Robot/Foot-Contact-Switch/2D_Pcb_Viev.png" width="200"><br>
-<img src="Solo12-Robot/Foot-Contact-Switch/3D_Pcb_Viev.png" width="200"><br>
+<img src="Foot-Contact-Switch/2D_Pcb_Viev.png" width="200"><br>
+<img src="Foot-Contact-Switch/3D_Pcb_Viev.png" width="200"><br>
 
 * [Gerber](Solo12-Robot/Foot-Contact-Switch/Gerber_PCB_2020-11-27_11-35-32_2020-11-27_13-27-24.zip)
 
