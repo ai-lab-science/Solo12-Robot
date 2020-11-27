@@ -138,7 +138,7 @@ the motor pulley, center pulley and Motor shaft were machined according to:
 | |Motor Pulley|Center Pulley|Motor Shaft|
 |---|---|---|---|
 |Images:|<img src="Solo12-Robot\Parts_for_machining\images\Motor_pulley_img.png" width="200">|<img src="Solo12-Robot\Parts_for_machining\images\Center_pulley_img.png" width="200">|<img src="Solo12-Robot\Parts_for_machining\images\Motor_shaft_img.png" width="200">|
-|PDF:|<a href="Solo12-Robot\Parts_for_machining\new_motor_Pulley_Zeichnung_v2.pdf" target="_blank">Motor Pulley</a>|<a href="Solo12-Robot\Parts_for_machining\New_Center_Pulley_10_teeth_Zeichnung_v0.pdf" target="_blank">Center Pulley</a>|<a href="Solo12-Robot\Parts_for_machining\motor_antigravity_4004_custom_shaft_Zeichnung_v1.pdf" target="_blank">Motor shaft</a>
+|PDF:|<a href="\Parts_for_machining\new_motor_Pulley_Zeichnung_v2.pdf" target="_blank">Motor Pulley</a>|<a href="\Parts_for_machining\New_Center_Pulley_10_teeth_Zeichnung_v0.pdf" target="_blank">Center Pulley</a>|<a href="\Parts_for_machining\motor_antigravity_4004_custom_shaft_Zeichnung_v1.pdf" target="_blank">Motor shaft</a>
 
 
 TODO: Add images of amchining Process
