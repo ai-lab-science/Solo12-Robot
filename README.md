@@ -118,10 +118,10 @@ The pulleys were machined on a lathe to match the dimension fo the original one 
 The .STL files of the Pulleys were also updated:
 
 <img src="Parts_for_3D_printing\New-Pulleys\center_pulley_3DPrint_image.png" width="200"><br>
-* [New Center Pulley](Parts_for_3D_printing\New-Pulleys\pulley_center_30t.stl)
+* [New Center Pulley](Parts_for_3D_printing/New-Pulleys/pulley_center_30t.stl)
 
 <img src="Parts_for_3D_printing\New-Pulleys\output_pulley_image.png" width="200"><br>
-* [New Center Pulley](Parts_for_3D_printing\New-Pulleys\pulley_output_30t.stl)
+* [New Center Pulley](Parts_for_3D_printing/New-Pulleys/pulley_output_30t.stl)
 
 
 
@@ -131,7 +131,7 @@ The .STL files of the Pulleys were also updated:
 
 ### Foot Contact Switch
 
-The Foot contact switch was exchanged for a Hall-effect Sensor. The sensor has the same Supply voltage and Senses a magnet at the bottom of the foot. Check [here](Foot-Contact-Switch\README.md) for more details.
+The Foot contact switch was exchanged for a Hall-effect Sensor. The sensor has the same Supply voltage and Senses a magnet at the bottom of the foot. Check [here](Foot-Contact-Switch/README.md) for more details.
 
 
 ## Supplier Links
