@@ -53,7 +53,7 @@
 </p>
 
 
-
+---
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -70,7 +70,7 @@
 * [Acknowledgements](#acknowledgements)
 
 
-
+---
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -80,18 +80,19 @@ Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 ` PRGeeesus`, `Solo12-Robot`, `twitter_handle`, `email`
 
-
+---
 ### Useful Links
 
 * [Original Project by the Open Dynamic Robot Initiative](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware)
 
 
-
+---
 <!-- All changes Made to Original -->
 ## All changes Made to Original
 
 Here you can find the Documentation of all changes that were made to the original Robot.
 
+---
 ### Magnetic Encoder
 
 The original Robot uses an optical Encoder. Due to its cost and the effort in assembly this was replaced with a magbetic enoder by AMS called [AS5047](https://ams.com/AS5047P).
@@ -103,6 +104,7 @@ The original Robot uses an optical Encoder. Due to its cost and the effort in as
 
 
 <!-- M3 Belts and Pulleys -->
+---
 ### M3 Belts and Pulleys
 The original Pulleys and Belts were repalced with M3 Pulleys and the fitting Belts.
 
@@ -124,16 +126,25 @@ The .STL files of the Pulleys were also updated:
 * [New Center Pulley](Parts_for_3D_printing/New-Pulleys/pulley_output_30t.stl)
 
 
-
+---
 ### 20x20 Hip AA Bearings
  The "Hip AA Bearing" of size 25 x 20 x 4mm were replaced with bearings of 27 x 20 x 4mm because of availability. The .STL files were updated accordingly. The bearings can be found [here](https://www.123kugellager.de/lager-R2520-2Z-ZEN)
 <!-- LICENSE -->
-
+---
 ### Foot Contact Switch
 
 The Foot contact switch was exchanged for a Hall-effect Sensor. The sensor has the same Supply voltage and Senses a magnet at the bottom of the foot. Check [here](Foot-Contact-Switch/README.md) for more details.
 
+---
+### Motor and Center Pulley
+the motor pulley, center pulley and Motor shaft were machined according to:
+  * [Motor Pulley](Solo12-Robot\Parts_for_machining\new_motor_Pulley_Zeichnung_v2.pdf)
+  * [Center Pulley](Solo12-Robot\Parts_for_machining\New_Center_Pulley_10_teeth_Zeichnung_v0.pdf)
+  * [Motor shaft](Solo12-Robot\Parts_for_machining\motor_antigravity_4004_custom_shaft_Zeichnung_v1.pdf)
 
+TODO: Add images of amchining Process
+---
+---
 ## Supplier Links
 All other parts were bought as described. I divided the Project into 3 parts.
 Here is a Table for all parts from the Main Body:
@@ -157,15 +168,6 @@ Here is a Table for all parts for one 3 DoF Leg:
 |Motor Shaft| new shaft | [reidl.de](https://www.reidl.de/iso-8740-zylinderkerbstifte-mit-fase?q=stahlzylinder)
 |Motor and Center Pulley| new M3 Pulleys| [www.zahnriemen24.de](https://www.zahnriemen24.de/a/40139-zahnscheiben-3m?vorbohrungspannsatz=1&bohrung=1&zaehnezahl=10&quantity=1)|
 
-
-
-### Motor and Center Pulley
-the motor pulley, center pulley and Motor shaft were machined according to:
-  * [Motor Pulley](Solo12-Robot\Parts_for_machining\new_motor_Pulley_Zeichnung_v2.pdf)
-  * [Center Pulley](Solo12-Robot\Parts_for_machining\New_Center_Pulley_10_teeth_Zeichnung_v0.pdf)
-  * [Motor shaft](Solo12-Robot\Parts_for_machining\motor_antigravity_4004_custom_shaft_Zeichnung_v1.pdf)
-
-TODO: Add images of amchining Process
 
 
 ## License
