@@ -110,17 +110,26 @@ The original Pulleys and Belts were repalced with M3 Pulleys and the fitting Bel
 * The new Belts can be found [here](https://www.zahnriemen24.de/a/40007-zahnriemen-3m)
 * The new Pulleys can be found [here](https://www.zahnriemen24.de/a/40139-zahnscheiben-3m?vorbohrungspannsatz=1&bohrung=1&zaehnezahl=10&quantity=1)
 
-The pulleys were machined on a lathe to match the dimension fo the original one (except the teeth of course)
-
-* Machine Instructions for the new Motor-Pulley can be found [Here](/Parts_for_machining/new_motor_Pulley_Zeichnung_v2.pdf)
-* Machine Instructions for the new Center-Pulley can be found [Here](/Parts_for_machining/New_Center_Pulley_10_teeth_Zeichnung_v0.pdf)
-
 
 The .STL files of the Pulleys were also updated:
 |center pulley|Output Pulley|
 |---|---|
 |<img src="Parts_for_3D_printing\New-Pulleys\center_pulley_3DPrint_image.png" width="200">|<img src="Parts_for_3D_printing\New-Pulleys\output_pulley_image.png" width="200">|
 |[New Center Pulley](Parts_for_3D_printing/New-Pulleys/pulley_center_30t.stl)|[New Center Pulley](Parts_for_3D_printing/New-Pulleys/pulley_output_30t.stl)|
+
+
+---
+### Motor and Center Pulley
+The Motor Pulley, Center Pulley and Motor Shaft were machined according to:
+| |Motor Pulley|Center Pulley|Motor Shaft|
+|---|---|---|---|
+|Images:|<img src="Parts_for_machining\images\Motor_pulley.jpg" width="200">|<img src="Parts_for_machining\images\Center_pulley.jpg" width="200">|<img src="Parts_for_machining\images\Motor_shaft.jpg" width="200">|
+|Assembly|<img src="Parts_for_machining\images\Motor_assembly.jpg" width="200" >|<img src="Parts_for_machining\images\center_pulley_assembly.jpeg" width="200">||
+|PDF:|<a href="\Parts_for_machining\new_motor_Pulley_Zeichnung_v2.pdf" target="_blank">Motor Pulley</a>|<a href="\Parts_for_machining\New_Center_Pulley_10_teeth_Zeichnung_v0.pdf" target="_blank">Center Pulley</a>|<a href="\Parts_for_machining\motor_antigravity_4004_custom_shaft_Zeichnung_v1.pdf" target="_blank">Motor shaft</a>
+
+* Parts in a lathe until they matched the Drawings:
+
+<img src="Parts_for_machining\images\machining_center_pulley.jpg" width="300">
 
 
 ---
@@ -132,22 +141,11 @@ The .STL files of the Pulleys were also updated:
 
 The Foot contact switch was exchanged for a Hall-effect Sensor. The sensor has the same Supply voltage and Senses a magnet at the bottom of the foot. Check [here](Foot-Contact-Switch/README.md) for more details.
 
----
-### Motor and Center Pulley
-The Motor Pulley, Center Pulley and Motor Shaft were machined according to:
-| |Motor Pulley|Center Pulley|Motor Shaft|
-|---|---|---|---|
-|Images:|<img src="Parts_for_machining\images\Motor_pulley.jpg" width="200">|<img src="Parts_for_machining\images\Center_pulley.jpg" width="200">|<img src="Parts_for_machining\images\Motor_shaft.jpg" width="200">|
-|Assembly|<img src="Parts_for_machining\images\Motor_assembly.jpg" width="200" height="90">|<img src="Parts_for_machining\images\center_pulley_assembly.jpeg" width="200">||
-|PDF:|<a href="\Parts_for_machining\new_motor_Pulley_Zeichnung_v2.pdf" target="_blank">Motor Pulley</a>|<a href="\Parts_for_machining\New_Center_Pulley_10_teeth_Zeichnung_v0.pdf" target="_blank">Center Pulley</a>|<a href="\Parts_for_machining\motor_antigravity_4004_custom_shaft_Zeichnung_v1.pdf" target="_blank">Motor shaft</a>
-
-
-TODO: Add images of amchining Process
 
 
 ## Supplier Links
 All other parts were bought as described. I divided the Project into 3 parts.
-Here is a Table for all parts from the Main Body:
+Here is a table for all parts from the Main Body:
 
 | Part        | Description | Suppliers   |
 |-------------|-------------|------------|
