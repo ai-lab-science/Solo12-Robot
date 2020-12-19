@@ -87,7 +87,7 @@ Here's a blank template to get started:
 
 
 <!-- All changes Made to Original -->
-## All changes Made to Original
+## All changes made to the original
 
 Here you can find the Documentation of all changes that were made to the original Robot.
 
