@@ -123,23 +123,29 @@ The .STL files of the Pulleys were also updated:
 The Motor Pulley, Center Pulley and Motor Shaft were machined according to:
 | |Motor Pulley|Center Pulley|Motor Shaft|
 |---|---|---|---|
-|Images:|<img src="Parts_for_machining\images\Motor_pulley.jpg" width="200">|<img src="Parts_for_machining\images\Center_pulley.jpg" width="200">|<img src="Parts_for_machining\images\Motor_shaft.jpg" width="200">|
-|Assembly|<img src="Parts_for_machining\images\Motor_assembly.jpg" width="200" >|<img src="Parts_for_machining\images\center_pulley_assembly.jpeg" width="200">||
+|Original:| ||
+|Manufactured:|<img src="Parts_for_machining\images\Motor_pulley.jpg" width="200">|<img src="Parts_for_machining\images\Center_pulley.jpg" width="200">|<img src="Parts_for_machining\images\Motor_shaft.jpg" width="200">|
+|Assembly|<img src="Parts_for_machining\images\motor_assembly.jpg" width="200" >|<img src="Parts_for_machining\images\center_pulley_assembly.jpeg" width="200">||
 |PDF:|<a href="\Parts_for_machining\new_motor_Pulley_Zeichnung_v2.pdf" target="_blank">Motor Pulley</a>|<a href="\Parts_for_machining\New_Center_Pulley_10_teeth_Zeichnung_v0.pdf" target="_blank">Center Pulley</a>|<a href="\Parts_for_machining\motor_antigravity_4004_custom_shaft_Zeichnung_v1.pdf" target="_blank">Motor shaft</a>
+
 
 * Parts in a lathe until they matched the Drawings:
 
-<img src="Parts_for_machining\images\machining_center_pulley.jpg" width="300">
+<br>
+<img src="Parts_for_machining\images\machining_center_pulley.jpg" height="300" border="2">
 
 
 ---
 ### 20x20 Hip AA Bearings
- The "Hip AA Bearing" of size 25 x 20 x 4mm were replaced with bearings of 27 x 20 x 4mm because of availability. The .STL files were updated accordingly. The bearings can be found [here](https://www.123kugellager.de/lager-R2520-2Z-ZEN)
-<!-- LICENSE -->
+ The "Hip AA Bearing" of size 25 x 20 x 4mm were replaced with bearings of 27 x 20 x 4mm because of availability. The [.stl](\Parts_for_3D_printing\hip_aa_fromt_cover_27.2mm_bearing.stl) files were updated accordingly. The bearings were bought [here](https://www.123kugellager.de/lager-R2520-2Z-ZEN).
+
+
 ---
 ### Foot Contact Switch
 
 The Foot contact switch was exchanged for a Hall-effect Sensor. The sensor has the same Supply voltage and Senses a magnet at the bottom of the foot. Check [here](Foot-Contact-Switch/README.md) for more details.
+
+<img src="TODO: Image path" link="Foot-Contact-Switch/README.md" width="200">
 
 
 
