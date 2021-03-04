@@ -83,7 +83,7 @@ TODO
 
 * [Original Project by the Open Dynamic Robot Initiative](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware)
 
-* [To-Dos for this Project]("https://github.com/ai-lab-science/Solo12-Robot/issues")
+* [To-Dos for this Project](https://github.com/ai-lab-science/Solo12-Robot/issues)
 
 
 ---
