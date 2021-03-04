@@ -74,9 +74,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 TODO
-
 
 
 #### Useful Links
