@@ -83,6 +83,8 @@ TODO:
 
 * [Original Project by the Open Dynamic Robot Initiative](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware)
 
+* [To-Dos for this Project]("https://github.com/ai-lab-science/Solo12-Robot/issues")
+
 
 ---
 <!-- All changes Made to Original -->
@@ -95,9 +97,9 @@ Here you can find the Documentation of all changes that were made to the origina
 
 The original Robot uses an optical Encoder. Due to its cost and the effort in assembly this was replaced with a magbetic enoder by AMS called [AS5047](https://ams.com/AS5047P).
 
-| Encoder Changes Mechanical | Encoder Changes Electrical | Config. and Arduino |
-|-------------|-------------|-------------|
-|<a href="Magnetic-Encoder/README.md#Mechanical-changes"><img src="Magnetic-Encoder/images/new_encoder_cad.png" width="200"></a> | <a href="Magnetic-Encoder/README.md#Electrical-changes"><img src="Magnetic-Encoder/images/enocder_electronics.png" width="200"></a> | <a href="Magnetic-Encoder/README.md#Communication-Via-Arduino"><img src="Magnetic-Encoder/images/config_icon.png" width="200"></a>|
+| Encoder Changes Mechanical | Encoder Changes Electrical | Config. and Arduino | uDriver |
+|-------------|-------------|-------------|-------------|
+|<a href="Magnetic-Encoder/README.md#Mechanical-changes"><img src="Magnetic-Encoder/images/new_encoder_cad.png" width="200"></a> | <a href="Magnetic-Encoder/README.md#Electrical-changes"><img src="Magnetic-Encoder/images/enocder_electronics.png" width="200"></a> | <a href="Magnetic-Encoder/README.md#Communication-Via-Arduino"><img src="Magnetic-Encoder/images/config_icon.png" width="200"></a>|<a href="uDriver-Firmware/README.md"><img src="Magnetic-Encoder/images/config_icon.png" width="200"></a>|
 
 
 
@@ -106,15 +108,15 @@ The original Robot uses an optical Encoder. Due to its cost and the effort in as
 ### M3 Belts and Pulleys
 The original Pulleys and Belts were repalced with M3 Pulleys and the fitting Belts.
 
-* The new Belts can be found [here](https://www.zahnriemen24.de/a/40007-zahnriemen-3m)
-* The new Pulleys can be found [here](https://www.zahnriemen24.de/a/40139-zahnscheiben-3m?vorbohrungspannsatz=1&bohrung=1&zaehnezahl=10&quantity=1)
+* The new Belts were bought [here](https://www.zahnriemen24.de/a/40007-zahnriemen-3m)
+* The new Pulleys were bought [here](https://www.zahnriemen24.de/a/40139-zahnscheiben-3m?vorbohrungspannsatz=1&bohrung=1&zaehnezahl=10&quantity=1)
 
 
 The .STL files of the Pulleys were also updated:
 |center pulley|Output Pulley|
 |---|---|
 |<img src="Parts_for_3D_printing\New-Pulleys\center_pulley_3DPrint_image.png" width="200">|<img src="Parts_for_3D_printing\New-Pulleys\output_pulley_image.png" width="200">|
-|[New Center Pulley](Parts_for_3D_printing/New-Pulleys/pulley_center_30t.stl)|[New Center Pulley](Parts_for_3D_printing/New-Pulleys/pulley_output_30t.stl)|
+|[.stl New Center Pulley](Parts_for_3D_printing/New-Pulleys/pulley_center_30t.stl)|[.stl New Output Pulley](Parts_for_3D_printing/New-Pulleys/pulley_output_30t.stl)|
 
 
 ---
@@ -122,10 +124,9 @@ The .STL files of the Pulleys were also updated:
 The Motor Pulley, Center Pulley and Motor Shaft were machined according to:
 | |Motor Pulley|Center Pulley|Motor Shaft|
 |---|---|---|---|
-|Original:| ||
 |Manufactured:|<img src="Parts_for_machining\images\Motor_pulley.jpg" width="200">|<img src="Parts_for_machining\images\Center_pulley.jpg" width="200">|<img src="Parts_for_machining\images\Motor_shaft.jpg" width="200">|
 |Assembly|<img src="Parts_for_machining\images\motor_assembly.jpg" width="200" >|<img src="Parts_for_machining\images\center_pulley_assembly.jpeg" width="200">||
-|PDF:|<a href="\Parts_for_machining\new_motor_Pulley_Zeichnung_v2.pdf" target="_blank">Motor Pulley</a>|<a href="\Parts_for_machining\New_Center_Pulley_10_teeth_Zeichnung_v0.pdf" target="_blank">Center Pulley</a>|<a href="\Parts_for_machining\motor_antigravity_4004_custom_shaft_Zeichnung_v1.pdf" target="_blank">Motor shaft</a>
+|Machining Instructions PDF:|<a href="\Parts_for_machining\new_motor_Pulley_Zeichnung_v2.pdf" target="_blank">Motor Pulley</a>|<a href="\Parts_for_machining\New_Center_Pulley_10_teeth_Zeichnung_v0.pdf" target="_blank">Center Pulley</a>|<a href="\Parts_for_machining\motor_antigravity_4004_custom_shaft_Zeichnung_v1.pdf" target="_blank">Motor shaft</a>
 
 
 * Parts in a lathe until they matched the Drawings:
