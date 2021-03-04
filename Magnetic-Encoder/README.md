@@ -86,8 +86,9 @@ As the micro Drivers Require ABI input for the tourque control, the encoders can
 ---
 ## Communication Via Arduino
 
-The AS5047 is should be connected via SPI [Wires](### Wires) to any arduino with SPI.
-Then following code can be used to program the AS5047 tempoararily.
+The AS5047 is should be connected via SPI [Wires](#Wires) to any other Arduino with SPI.
+Then following Code can be used to program the AS5047 tempoararily.
+* [Code](Arduino)
 By removing the while(1) the programming can be OTP.
 
 I used the following [repository](https://github.com/adrien-legrand/AS5X47) by Adrien Legrand to communicate with the AS5047 chip via SPI through an Arduino. The solder bridge labelled "Test" has to be closed for this.
