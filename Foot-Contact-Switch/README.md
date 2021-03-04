@@ -1,7 +1,22 @@
 ## Foot Contact Switch
 
-All about the foot - contact switch using hall effect sensors.
+* until now, no Foot contact switch has been added.
 
+* The Foot-contact switch wires are glued to the bottom of the "Upper Leg Base":
+
+|Image|Description|
+|-------------|------|
+|<img src="images\foot_wire_front.jpg" width= "200"> |The three phase foot-contact wire is glued to the side of the enclosure using superglue. Towards theou outbut side is is kept close to the bottom and clears the center Pulley.|
+|<img src="images\foot_wire_back.jpg" width= "200"> |On the Output side a small hole was provided to feed through the wire|
+
+* The wired do NOT share all the same clour. The colours are 
+TODO:
+|Colors|Pin|Description|
+|---|---|---|
+
+
+<!-- This was an attempt to desing a own Foor contact switch. It failed.-->
+<!---
 ### The SS39ET Chip
 * Datasheet: DATASHEET-honeywell-sensing-ss39et-ss49e-ss59et-datasheet-005850-4-EN.pdf
 
@@ -21,3 +36,4 @@ A small PCB Was designed to hold the chip. It has two mounting holes.
 * The foot was modified to accompany a small magnet and the sensor board.
 
 * TODO: Images and .stl files coming when parts tested
+--->

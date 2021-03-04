@@ -43,32 +43,6 @@ As the micro Drivers Require ABI input for the tourque control, the encoders can
 
 * The gerber files for the encoder Bord can be found [Here](/Electrical-Changes)
 
----
-### Wires
-
-* The magnetic encoders are wired with as two flatband cables. The colors are the same on all encoders.
-
-|Flatband Cables|Description
-|-------------|------|
-| <img src="images\encoder_colors.jpg" height="200"> |<table><thead><tr><th>Color</th><th>Pin</th> <th>Description</th></tr></thead><tbody><tr><td>Green</td><td>MOSI</td><td>Master Out Slave In (SPI)</td></tr><tr><td>Yellow</td><td>CS</td><td>chip Select (SPI)</td></tr><tr><td>Orange</td><td>CLK</td><td>clock (SPI)</td></tr><tr><td>Red</td><td>MISO</td><td>Master in Slave Out (SPI)</td></tr>
-<tr><td>Marine Blue</td><td>B</td><td>for ABI</td></tr><tr><td>Purple</td><td>A</td><td>"</td></tr><tr><td>Grey</td><td>I</td><td>"</td></tr><tr><td>White</td><td>5V</td><td>Power supply</td></tr><tr><td>Black</td><td>GND</td><td>Ground for SPI and ABI</td></tr></tbody></table>|
-
-<br><br>
-* The Foot-contact switch wires are glued to the bottom of the "Upper Leg Base":
-
-|Image|Description|
-|-------------|------|
-|<img src="images\foot_wire_front.jpg" width= "200"> |The three phase foot-contact wire is glued to the side of the enclosure using superglue. Towards theou outbut side is is kept close to the bottom and clears the center Pulley.|
-|<img src="images\foot_wire_back.jpg" width= "200"> |On the Output side a small hole was provided to feed through the wire|
-
-* The wired do NOT share all the same clour. The colours are TODO:
-
-|Colors|Pin|Description|
-|---|---|
-|||
-
-
-
 
 ---
 ### Bill of Material
@@ -82,18 +56,25 @@ As the micro Drivers Require ABI input for the tourque control, the encoders can
 | R1 | optional. 100R for LED_1  | " |
 | LED_1 | 0402 LED  | " |
 
+---
+### Wires
+
+* The magnetic encoders are wired with as two flatband cables. The colors are the same on all encoders.
+
+|Flatband Cables|Description
+|-------------|------|
+| <img src="images\encoder_colors.jpg" height="200"> |<table><thead><tr><th>Color</th><th>Pin</th> <th>Description</th></tr></thead><tbody><tr><td>Green</td><td>MOSI</td><td>Master Out Slave In (SPI)</td></tr><tr><td>Yellow</td><td>CS</td><td>chip Select (SPI)</td></tr><tr><td>Orange</td><td>CLK</td><td>clock (SPI)</td></tr><tr><td>Red</td><td>MISO</td><td>Master in Slave Out (SPI)</td></tr>
+<tr><td>Marine Blue</td><td>B</td><td>for ABI</td></tr><tr><td>Purple</td><td>A</td><td>"</td></tr><tr><td>Grey</td><td>I</td><td>"</td></tr><tr><td>White</td><td>5V</td><td>Power supply</td></tr><tr><td>Black</td><td>GND</td><td>Ground for SPI and ABI</td></tr></tbody></table>|
+
+<br>
+
 
 ---
 ## Communication Via Arduino
 
 The AS5047 is should be connected via SPI [Wires](#Wires) to any other Arduino with SPI.
-Then following Code can be used to program the AS5047 tempoararily.
-* [Code](Arduino)
-By removing the while(1) the programming can be OTP.
+Then following Code can be used to program the AS5047 tempoararily. The solder bridge "Test" should be closed for this.
+* [Code: Program AS5047U_OTP](Arduino)
 
-I used the following [repository](https://github.com/adrien-legrand/AS5X47) by Adrien Legrand to communicate with the AS5047 chip via SPI through an Arduino. The solder bridge labelled "Test" has to be closed for this.
-
-
-
-
+By removing the while(1) the programming will be OTP.
 

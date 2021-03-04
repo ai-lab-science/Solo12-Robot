@@ -41,14 +41,14 @@
   <p align="center">
     This repo summarizes my changes to the Open Dynamics Robot Initiative Project.
     <br />
-    <a href="https://github.com/ PRGeeesus/Solo12-Robot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ai-lab-science/Solo12-Robot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ PRGeeesus/Solo12-Robot">View Demo</a>
+    <a href="https://github.com/ai-lab-science/Solo12-Robot">View Demo</a>
     ·
-    <a href="https://github.com/ PRGeeesus/Solo12-Robot/issues">Report Bug</a>
+    <a href="https://github.com/ai-lab-science/Solo12-Robot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ PRGeeesus/Solo12-Robot/issues">Request Feature</a>
+    <a href="https://github.com/ai-lab-science/Solo12-Robot">Request Feature</a>
   </p>
 </p>
 
@@ -59,11 +59,13 @@
 * [About the Project](#about-the-project)
   * [Useful Links](#Useful-Links)
 * [Changes Made to Original](#All-changes-Made-to-Original)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
+  * [Magnetic Encoder](#Magnetic-Encoder)
+  * [M3 Belts and Pulleys](#M3-Belts-and-Pulleys)
+  * [Motor and Center Pulley](#Motor-and-Center-Pulley)
+  * [20x20 Hip AA Bearings](#20x20-Hip-AA-Bearings)
+  * [Foot Contact Switch](#Foot-Contact-Switch)
+
+* [Supplier Links](#Supplier-Links)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -73,19 +75,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+TODO:
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-` PRGeeesus`, `Solo12-Robot`, `twitter_handle`, `email`
 
----
-### Useful Links
+
+#### Useful Links
 
 * [Original Project by the Open Dynamic Robot Initiative](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware)
 
 
-
+---
 <!-- All changes Made to Original -->
 ## All changes made to the original
 
@@ -143,9 +142,8 @@ The Motor Pulley, Center Pulley and Motor Shaft were machined according to:
 ---
 ### Foot Contact Switch
 
-The Foot contact switch was exchanged for a Hall-effect Sensor. The sensor has the same Supply voltage and Senses a magnet at the bottom of the foot. Check [here](Foot-Contact-Switch/README.md) for more details.
-
-<img src="TODO: Image path" link="/Foot-Contact-Switch/README.md" width="200">
+* no foot contact switch was added yet. However, the cables are fed through for future add-on.
+[Link](Foot-Contact-Switch/README.md)
 
 
 
@@ -157,8 +155,8 @@ Here is a table for all parts from the Main Body:
 |-------------|-------------|------------|
 | Hip AA Bearing | Bearing to attach Hip FE to the body | [123kugellager.de](https://store-en.tmotor.com/goods.php?id=438)|
 | Fasteners | All fasteners as described by the original  | [online-schrauben.de](https://online-schrauben.de/shop/) |
-
-Here is a table for all parts for one 3 DoF Leg:
+<br>
+Here is a table for all parts for one 3 DoF Leg:<br><br>
 
 | Part        | Description | Suppliers   |
 |-------------|-------------|------------|
@@ -185,33 +183,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 martin.buchschuster@student.uni-luebeck.de
 
-Project Link: [This site](https://github.com/ PRGeeesus/Solo12-Robot)
+Project Link: [This-site](https://github.com/ai-lab-science/Solo12-Robot)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Ralf Bruder]()
+* [Elmar Rueckert]()
+* [Martin Buchschuster]()
 
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ PRGeeesus/repo.svg?style=flat-square
-[contributors-url]: https://github.com/ PRGeeesus/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ PRGeeesus/repo.svg?style=flat-square
-[forks-url]: https://github.com/ PRGeeesus/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/ PRGeeesus/repo.svg?style=flat-square
-[stars-url]: https://github.com/ PRGeeesus/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ PRGeeesus/repo.svg?style=flat-square
-[issues-url]: https://github.com/ PRGeeesus/repo/issues
-[license-shield]: https://img.shields.io/github/license/ PRGeeesus/repo.svg?style=flat-square
-[license-url]: https://github.com/ PRGeeesus/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ PRGeeesus
-[product-screenshot]: images/screenshot.png
