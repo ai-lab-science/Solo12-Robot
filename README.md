@@ -145,7 +145,7 @@ The Motor Pulley, Center Pulley and Motor Shaft were machined according to:
 
 The Foot contact switch was exchanged for a Hall-effect Sensor. The sensor has the same Supply voltage and Senses a magnet at the bottom of the foot. Check [here](Foot-Contact-Switch/README.md) for more details.
 
-<img src="TODO: Image path" link="Foot-Contact-Switch/README.md" width="200">
+<img src="TODO: Image path" link="/Foot-Contact-Switch/README.md" width="200">
 
 
 
@@ -158,7 +158,7 @@ Here is a table for all parts from the Main Body:
 | Hip AA Bearing | Bearing to attach Hip FE to the body | [123kugellager.de](https://store-en.tmotor.com/goods.php?id=438)|
 | Fasteners | All fasteners as described by the original  | [online-schrauben.de](https://online-schrauben.de/shop/) |
 
-Here is a Table for all parts for one 3 DoF Leg:
+Here is a table for all parts for one 3 DoF Leg:
 
 | Part        | Description | Suppliers   |
 |-------------|-------------|------------|
@@ -167,8 +167,8 @@ Here is a Table for all parts for one 3 DoF Leg:
 | Timing Belt 4mm / length: 150mm / 50 teeth | new M3 Timing Belts  | [www.zahnriemen24.de](https://www.zahnriemen24.de/a/40007-zahnriemen-3m) |
 | Timing Belt 6mm / length: 201mm / 67 teeth | new M3 Timing Belts  | [www.zahnriemen24.de](https://www.zahnriemen24.de/a/40007-zahnriemen-3m) |
 |Bearing Output Shaft 32mm x 25mm x 4mm | bearing for each output | [ekugellager.de](https://www.ekugellager.de)|
-|Bearing Motor Shaft and Center Shaft |8mm x 4mm x 2mm bearing | - |[ekugellager.de](https://www.ekugellager.de)|
-|Bearing Timing Belt Tensioner| - | [ekugellager.de](https://www.ekugellager.de)|
+|Bearing Motor Shaft and Center Shaft |8mm x 4mm x 2mm bearing | " |[ekugellager.de](https://www.ekugellager.de)|
+|Bearing Timing Belt Tensioner| - | " |
 |Motor Shaft| new shaft | [reidl.de](https://www.reidl.de/iso-8740-zylinderkerbstifte-mit-fase?q=stahlzylinder)
 |Motor and Center Pulley| new M3 Pulleys| [www.zahnriemen24.de](https://www.zahnriemen24.de/a/40139-zahnscheiben-3m?vorbohrungspannsatz=1&bohrung=1&zaehnezahl=10&quantity=1)|
 
